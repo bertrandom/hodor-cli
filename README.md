@@ -5,7 +5,7 @@
 Checkout the repo somewhere
 
 ```
-git clone 
+git clone git@github.com:bertrandom/hodor-cli.git
 cd hodor-cli
 ```
 
