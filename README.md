@@ -17,7 +17,7 @@ ln -s `pwd`/hodor ~/bin/hodor
 or add an alias in your .profile:
 
 ```
-alias hodor-cli="~/code/hodor-cli/hodor"
+alias hodor="~/code/hodor-cli/hodor"
 ```
 
 ## Usage
